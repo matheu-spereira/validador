@@ -29,8 +29,11 @@
 
 12 - Agora o ambiente está configurado para testes da aplicação de validação do banco.
 Localização: /notebooks/Validação estrutura/
+
 Notebook para chamar a classe: valida_tabelas.ipynb
+
 Classe python: validador.py
+
 Dicionário de dados: a.xlsx
 
 ![image](https://github.com/matheu-spereira/validador/assets/33911601/513c5c60-e654-420b-8b55-8af1ef2e2740)
