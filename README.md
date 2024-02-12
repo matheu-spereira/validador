@@ -38,6 +38,9 @@ Dicionário de dados: a.xlsx
 
 ![image](https://github.com/matheu-spereira/validador/assets/33911601/513c5c60-e654-420b-8b55-8af1ef2e2740)
 
+![image](https://github.com/matheu-spereira/validador/assets/33911601/50ad0a06-346a-461f-bc69-b05ebacee7d0)
+
+
 
 
 # Entendimento 
