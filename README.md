@@ -1,4 +1,4 @@
-![image](https://github.com/matheu-spereira/validador/assets/33911601/3c8d1119-257e-4a28-baf6-5e0c7a76c104)# Para execução do ambiente de teste:
+# Para execução do ambiente de teste:
 1 - Ter instalado o Docker Desktop
 2 - Clonar este repositório para a máquina local
 3 - Executar "docker-compose up -d" na pasta aonde foi clonado os documentos:
