@@ -1,6 +1,8 @@
 # Para execução do ambiente de teste:
 1 - Ter instalado o Docker Desktop
+
 2 - Clonar este repositório para a máquina local
+
 3 - Executar "docker-compose up -d" na pasta aonde foi clonado os documentos:
 ![image](https://github.com/matheu-spereira/validador/assets/33911601/8f970f40-d273-4e63-b334-0ca88d2bf715)
 4 - No navegador entrar no link, senha: "token" : [http://localhost:8888/lab/tree/notebooks/Valida%C3%A7%C3%A3o%20estrutura/valida_tabelas.ipynb](http://localhost:8888/lab/tree/notebooks)
@@ -16,7 +18,9 @@
 ![image](https://github.com/matheu-spereira/validador/assets/33911601/2e63f64c-1c4f-4af0-a62f-f1f407a28a78)
 
 8 - No ambiente de teste está sendo utilizando a base de dados de avaliacoes, para criar uma tabela no banco vá em: /notebooks/dataset_avaliacoes/
+
 9 - Clique em 0_pipeline_source_dw_avaliacoes.pipeline
+
 10 - Clique em executar depois ok e ok. Aguarde a finalização do pipeline.
 ![image](https://github.com/matheu-spereira/validador/assets/33911601/357f8da5-d464-4c33-a3db-e6131bb74d42)
 
